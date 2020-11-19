@@ -1,0 +1,2 @@
+C:\Users\Administrator\source\repos\ALMS\Debug\ALMS.exe
+C:\Users\Administrator\source\repos\ALMS\Debug\ALMS.pdb
